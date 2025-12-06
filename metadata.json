@@ -1,0 +1,7 @@
+{
+  "name": "Magma Fluid Hand Interface",
+  "description": "A webcam-based augmented reality interface simulating high-viscosity fluid interaction with spatial audio.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
